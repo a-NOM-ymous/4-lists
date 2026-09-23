@@ -8,3 +8,7 @@ html {
 .letter {
     list-style-type: upper-alpha;
 }
+.nav {
+    list-style-type: none;
+    padding: 1.5%;
+}
